@@ -16,3 +16,10 @@ Added icon: start.svg
 Modified icons: media.svg, systyem.svg, window.svg
 
 Edited widget: clock.svg
+
+Changelog: 08.10.2019.
+---------------------
+
+Widget changed: calendar.svg
+
+Icon correction: media.svg
